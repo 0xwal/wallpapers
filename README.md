@@ -30,3 +30,8 @@
 <div align="center">
 	<img src="./6.jpg" height="360" width="640" />
 </div>
+
+7.
+<div align="center">
+	<img src="./7.jpg" height="360" width="640" />
+</div>
