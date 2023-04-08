@@ -43,5 +43,5 @@
 
 9.
 <div align="center">
-	<img src="./9.jpg" height="360" width="640" />
+	<img src="./9.png" height="360" width="640" />
 </div>
