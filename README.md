@@ -35,3 +35,8 @@
 <div align="center">
 	<img src="./7.jpg" height="360" width="640" />
 </div>
+
+8.
+<div align="center">
+	<img src="./8.jpg" height="360" width="640" />
+</div>
