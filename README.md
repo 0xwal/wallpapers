@@ -86,3 +86,8 @@
 	<img src="./116.jpg" height="360" width="640" />
 </div>
 
+18.
+<div align="center">
+	<img src="./117.jpg" height="360" width="640" />
+</div>
+
