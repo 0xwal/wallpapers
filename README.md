@@ -91,3 +91,8 @@
 	<img src="./117.jpg" height="360" width="640" />
 </div>
 
+19.
+<div align="center">
+	<img src="./131.jpg" height="360" width="640" />
+</div>
+
